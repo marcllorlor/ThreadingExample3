@@ -1,0 +1,11 @@
+C:\DAM2\M9UF2\Practica3\Practica3\bin\Debug\Practica3.exe.config
+C:\DAM2\M9UF2\Practica3\Practica3\bin\Debug\Practica3.exe
+C:\DAM2\M9UF2\Practica3\Practica3\bin\Debug\Practica3.pdb
+C:\DAM2\M9UF2\Practica3\Practica3\obj\Debug\Practica3.csproj.AssemblyReference.cache
+C:\DAM2\M9UF2\Practica3\Practica3\obj\Debug\Practica3.csproj.SuggestedBindingRedirects.cache
+C:\DAM2\M9UF2\Practica3\Practica3\obj\Debug\Practica3.FrmMain.resources
+C:\DAM2\M9UF2\Practica3\Practica3\obj\Debug\Practica3.Properties.Resources.resources
+C:\DAM2\M9UF2\Practica3\Practica3\obj\Debug\Practica3.csproj.GenerateResource.cache
+C:\DAM2\M9UF2\Practica3\Practica3\obj\Debug\Practica3.csproj.CoreCompileInputs.cache
+C:\DAM2\M9UF2\Practica3\Practica3\obj\Debug\Practica3.exe
+C:\DAM2\M9UF2\Practica3\Practica3\obj\Debug\Practica3.pdb
